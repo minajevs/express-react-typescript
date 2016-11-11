@@ -1,0 +1,7 @@
+node_modules/*
+typings/*
+app/*
+npm-debug.log
+.settings/*
+.git/*
+bower_components/*
